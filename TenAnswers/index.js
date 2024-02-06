@@ -17,7 +17,7 @@ const initGame = () => {
 
 const genAnswer = () => {
     answer = Math.round(Math.random() * 99)
-    console.log(`Ans: ${answer}`)
+    // console.log(`Ans: ${answer}`)
 }
 
 const updateMode = () => {
